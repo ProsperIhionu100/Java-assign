@@ -1,0 +1,5 @@
+contructor: initailizes an object when it is created, 
+has the same name as the class, and is called automatically
+
+Method: Performs actions or provides functionality on an object,
+has a distinct name, and is called explicity
